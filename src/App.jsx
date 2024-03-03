@@ -28,11 +28,11 @@ const siteProps = {
   title: "Software Engineer & Data Scientist",
   email: "habibnasir23@gmail.com",
   gitHub: "https://github.com/Habibnasir23",
-  instagram: "@habib.nasir",
+  instagram: "",
   linkedIn: "https://www.linkedin.com/in/habib-nasir",
   medium: "",
-  twitter: "habibnasir",
-  youTube: "habibnasir",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";

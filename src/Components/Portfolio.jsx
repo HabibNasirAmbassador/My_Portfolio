@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "TruTracker: Truman State Campus Navigation Partner",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Contributed to the development of an app that lets you find the quickest paths and select building entrances for efficient, personalized campus travel.",
+    url: "https://github.com/Habibnasir23/TruTracker",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Real Estate Web Application for Kirksville",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created a user friendly site for residents of Kirksville to list their property for sale/rent or view existing listings.",
+    url: "https://github.com/Habibnasir23/ASP.NET-Core-MVC-Real-Estate-Web-Application",
   },
   {
-    title: "My Resume Site",
+    title: "College Dining Hall Menu Tracker and SMS Notifier. ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Are you tired of figuring out which dinning hall has the best food? Worry no more cuz this program will look for the best food options daily, based on your prefernces, and send you alerts on where to eat on campus.",
+    url: "https://github.com/Habibnasir23/Dining-Hall-Menu-Tracker-and-SMS-Notifier",
+  },
+  {
+    title: "My Portfolio Site",
+    description:
+      "Created using React and JavaScript. Includes my experience and development skills.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
 

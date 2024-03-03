@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Computer Science student studying at Truman State University. I blend programming expertise and data insights to drive real-world impact.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Software Development",
+  "Data Science",
+  "SQL",
+  "REST API Development",
+  "Data Management & Analysis",
+  ".NET",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I thrive on tackling complex software and data challenges, leveraging my diverse skill set to uncover insights and build efficient solutions. I'm always on the lookout for smarter, leaner ways to build software that matters.";
 
 const About = () => {
   return (
@@ -68,7 +68,7 @@ const About = () => {
             textAlign: "left",
             columns: 2,
             fontSize: "1.25rem",
-            margin: "2rem 3rem",
+            margin: "2rem 2rem",
             gap: "3rem",
           }}
         >
